@@ -58,8 +58,7 @@
 - Sales & Profit Analysis
 - Customer Segment Analysis
 
-🔗 Repository:
-https://github.com/Munavar-7420/E-Commerce-Sales-Analysis-Project
+🔗 Repository: https://github.com/Munavar-7420/E-Commerce-Sales-Analysis-Project
 
 ---
 
@@ -71,8 +70,7 @@ https://github.com/Munavar-7420/E-Commerce-Sales-Analysis-Project
 - Product Performance Evaluation
 - Regional Sales Analysis
 
-🔗 Repository:
-https://github.com/Munavar-7420/Retail-SQL-Analytics-System
+🔗 Repository: https://github.com/Munavar-7420/Retail-SQL-Analytics-System
 
 ---
 
@@ -102,11 +100,11 @@ https://github.com/Munavar-7420/Retail-SQL-Analytics-System
 
 ### 📉 Customer Churn Prediction System
 
--Machine Learning Classification Project
--Customer Behavior Analysis
--Feature Engineering
--Predictive Modeling
--Customer Retention Insights
+- Machine Learning Classification Project
+- Customer Behavior Analysis
+- Feature Engineering
+- Predictive Modeling
+- Customer Retention Insights
 
 🔗 Repository: https://github.com/Munavar-7420/Customer-Churn-Prediction
 
