@@ -12,12 +12,19 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Aspiring Data Analyst passionate about transforming data into actionable insights.
-- 📚 Currently learning **Advanced Data Analytics, Machine Learning, and Business Intelligence**.
-- 💼 Completed internships and continuously building real-world analytics projects.
-- 📊 Experienced in **SQL, Python, Power BI, Excel, Pandas, Data Visualization, and Dashboard Development**.
-- 🚀 Interested in Data Analytics, Business Intelligence, and Machine Learning.
-- 🇩🇪 Preparing for higher studies and career opportunities in Germany.
+-🎓 I hold a Bachelor's degree in Engineering and developed a strong interest in analytical and data-driven problem solving through subjects involving mathematics, statistics, and logical reasoning.
+
+-📊 My interest in data led me to transition into the field of Data Analytics, where I built expertise in SQL, Python, Power BI, Excel, data visualization, and business intelligence through structured training, internships, and hands-on projects.
+
+-💼 I currently work as a Data Analyst at CRSR Technologies Pvt. Ltd., where I contribute to reporting workflows, dashboard development, data pipeline management, and analytical solutions that support business decision-making.
+
+-🚀 Beyond my professional responsibilities, I continuously work on real-world analytics and machine learning projects, including sales analytics, recommendation systems, predictive modeling, and business intelligence dashboards to strengthen my technical foundation.
+
+-📚 I am currently expanding my knowledge in Advanced Data Analytics, Machine Learning, Artificial Intelligence, and Data Science, with a strong focus on developing deeper expertise in statistical modeling, predictive analytics, and AI-driven decision systems.
+
+-🇩🇪 I am planning to pursue a Master’s degree in Germany to gain advanced academic knowledge, international exposure, and specialized skills in Data Analytics and Artificial Intelligence. My goal is to combine practical industry experience with strong theoretical foundations and build a career focused on solving complex business and data challenges through analytics and intelligent systems.
+
+-🎯 My long-term objective is to grow into a highly skilled Data Analytics and AI professional capable of designing data-driven solutions that create measurable business impact.
 
 ---
 
