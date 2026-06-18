@@ -100,15 +100,15 @@ https://github.com/Munavar-7420/Retail-SQL-Analytics-System
 
 ---
 
-### 🦠 COVID-19 Data Analysis Dashboard
+### 📉 Customer Churn Prediction System
 
-- Data Cleaning & Analysis
-- Trend Analysis
-- Country-wise Spread Analysis
-- Recovery & Mortality Insights
-- Power BI Dashboard
+-Machine Learning Classification Project
+-Customer Behavior Analysis
+-Feature Engineering
+-Predictive Modeling
+-Customer Retention Insights
 
-🔗 Repository: https://github.com/Munavar-7420/COVID-Data-Analysis-Dashboard
+🔗 Repository: https://github.com/Munavar-7420/Customer-Churn-Prediction
 
 ---
 
