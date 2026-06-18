@@ -144,8 +144,3 @@ https://github.com/Munavar-7420/Retail-SQL-Analytics-System
 
 </p>
 
-<p align="center">
-
-🔗 LinkedIn • 📧 Email • 💻 GitHub • 🏆 HackerRank
-
-</p>
