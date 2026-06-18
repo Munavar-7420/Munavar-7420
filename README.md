@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm Munavar Patter
 
-### 📊 Data Analyst | SQL | Python | Power BI | Business Intelligence
+### 📊 Data Analyst at CRSR Technologies Pvt. Ltd.
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+### SQL | Python | Power BI | Data Analytics | Business Intelligence
 
 </div>
 
@@ -12,19 +12,21 @@
 
 ## 👨‍💻 About Me
 
--🎓 I hold a Bachelor's degree in Engineering and developed a strong interest in analytical and data-driven problem solving through subjects involving mathematics, statistics, and logical reasoning.
+🎓 I hold a Bachelor's degree in Engineering and developed a strong interest in analytical and data-driven problem solving through subjects involving mathematics, statistics, and logical reasoning.
 
--📊 My interest in data led me to transition into the field of Data Analytics, where I built expertise in SQL, Python, Power BI, Excel, data visualization, and business intelligence through structured training, internships, and hands-on projects.
+📊 My interest in data led me to transition into the field of Data Analytics, where I built expertise in SQL, Python, Power BI, Excel, data visualization, and business intelligence through structured training, internships, and hands-on projects.
 
--💼 I currently work as a Data Analyst at CRSR Technologies Pvt. Ltd., where I contribute to reporting workflows, dashboard development, data pipeline management, and analytical solutions that support business decision-making.
+💼 Currently working as a **Data Analyst at CRSR Technologies Pvt. Ltd.**, contributing to reporting workflows, dashboard development, data pipeline management, and analytical solutions that support business decision-making.
 
--🚀 Beyond my professional responsibilities, I continuously work on real-world analytics and machine learning projects, including sales analytics, recommendation systems, predictive modeling, and business intelligence dashboards to strengthen my technical foundation.
+🚀 Beyond my professional responsibilities, I continuously work on real-world analytics and machine learning projects, including sales analytics, recommendation systems, predictive modeling, customer churn analysis, and business intelligence dashboards.
 
--📚 I am currently expanding my knowledge in Advanced Data Analytics, Machine Learning, Artificial Intelligence, and Data Science, with a strong focus on developing deeper expertise in statistical modeling, predictive analytics, and AI-driven decision systems.
+📚 Currently expanding my knowledge in **Advanced Data Analytics, Machine Learning, Artificial Intelligence, and Data Science**, with a strong focus on predictive modeling, statistical analysis, and AI-driven decision systems.
 
--🇩🇪 I am planning to pursue a Master’s degree in Germany to gain advanced academic knowledge, international exposure, and specialized skills in Data Analytics and Artificial Intelligence. My goal is to combine practical industry experience with strong theoretical foundations and build a career focused on solving complex business and data challenges through analytics and intelligent systems.
+🎓 Planning to pursue a **Master's degree in Germany specializing in Data Science and Artificial Intelligence** to strengthen my theoretical foundation, gain international exposure, and develop expertise in advanced analytical and AI technologies.
 
--🎯 My long-term objective is to grow into a highly skilled Data Analytics and AI professional capable of designing data-driven solutions that create measurable business impact.
+📍 Hyderabad, India
+
+🎯 My long-term goal is to build a career at the intersection of **Data Science, Artificial Intelligence, and Business Intelligence**, leveraging data-driven solutions to solve complex business challenges and create measurable impact.
 
 ---
 
@@ -74,13 +76,15 @@ https://github.com/Munavar-7420/Retail-SQL-Analytics-System
 
 ---
 
-### 🏠 House Price Prediction
+### 🏠 Real Estate Price Prediction
 
 - Machine Learning Regression Project
 - Feature Engineering
 - Data Preprocessing
 - Price Prediction Model
 - Performance Evaluation
+
+🔗 Repository: https://github.com/Munavar-7420/Real-Estate-Price-Prediction
 
 ---
 
@@ -92,6 +96,8 @@ https://github.com/Munavar-7420/Retail-SQL-Analytics-System
 - Cosine Similarity
 - Recommendation Engine
 
+🔗 Repository: https://github.com/Munavar-7420/Movie-Recommendation-System
+
 ---
 
 ### 🦠 COVID-19 Data Analysis Dashboard
@@ -102,39 +108,17 @@ https://github.com/Munavar-7420/Retail-SQL-Analytics-System
 - Recovery & Mortality Insights
 - Power BI Dashboard
 
----
-
-## 📜 Certifications
-
-- Data Analytics Certifications
-- SQL Certifications
-- Power BI Certifications
-- Python for Data Analysis
-- Business Intelligence Training
-
-*(Add your certificates here)*
+🔗 Repository: https://github.com/Munavar-7420/COVID-Data-Analysis-Dashboard
 
 ---
 
-## 📊 GitHub Stats
+## 📜 Certifications & Learning
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Munavar-7420&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munavar-7420&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Munavar-7420&theme=tokyonight"/>
-
-</p>
+- 📊 Data Analytics Program – Masai School 
+- 🗄️ SQL for Data Analysis
+- 📈 Power BI Dashboard Development
+- 🐍 Python for Data Analytics
+- 📉 Business Intelligence & Data Visualization
 
 ---
 
@@ -160,12 +144,8 @@ https://github.com/Munavar-7420/Retail-SQL-Analytics-System
 
 </p>
 
----
+<p align="center">
 
-## 🎯 Career Objective
+🔗 LinkedIn • 📧 Email • 💻 GitHub • 🏆 HackerRank
 
-Seeking opportunities in **Data Analytics, Business Intelligence, and Data Science**, where I can apply analytical thinking, problem-solving skills, and data-driven decision-making to solve real-world business challenges.
-
----
-
-⭐ Thanks for visiting my profile!
+</p>
