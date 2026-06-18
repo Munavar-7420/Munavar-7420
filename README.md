@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Munavar Patter
 
-### 📊 Aspiring Data Analyst | SQL | Power BI | Python | Excel
+### 📊 Data Analyst | SQL | Python | Power BI | Business Intelligence
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 
