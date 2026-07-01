@@ -12,17 +12,15 @@
 
 ## 👨‍💻 About Me
 
-🎓 I hold a Bachelor's degree in Engineering and developed a strong interest in analytical and data-driven problem solving through subjects involving mathematics, statistics, and logical reasoning.
+🎓 I hold a Bachelor's degree in Engineering and developed a strong interest in analytical and data-driven problem-solving through mathematics, statistics, and logical reasoning.
 
-📊 My interest in data led me to transition into the field of Data Analytics, where I built expertise in SQL, Python, Power BI, Excel, data visualization, and business intelligence through structured training, internships, and hands-on projects.
+📊 My interest in data led me to build expertise in **SQL, Python, Power BI, Excel, data visualization, and business intelligence** through structured training, internships, independent projects, and professional experience.
 
-💼 Currently working as a **Data Analyst at CRSR Technologies Pvt. Ltd.**, contributing to reporting workflows, dashboard development, data pipeline management, and analytical solutions that support business decision-making.
+💼 I am currently working as a **Data Analyst at CRSR Technologies Pvt. Ltd.**, where I contribute to SQL-based data analysis, dashboard development, business reporting, data validation, and analytical solutions that support business decision-making.
 
 🚀 Beyond my professional responsibilities, I continuously work on real-world analytics and machine learning projects, including sales analytics, recommendation systems, predictive modeling, customer churn analysis, and business intelligence dashboards.
 
-📚 Currently expanding my knowledge in **Advanced Data Analytics, Machine Learning, Artificial Intelligence, and Data Science**, with a strong focus on predictive modeling, statistical analysis, and AI-driven decision systems.
-
-🎓 Planning to pursue a **Master's degree in Germany specializing in Data Science and Artificial Intelligence** to strengthen my theoretical foundation, gain international exposure, and develop expertise in advanced analytical and AI technologies.
+📚 I am continuously expanding my knowledge of **Data Analytics, Business Intelligence, Machine Learning concepts, and Artificial Intelligence** through continuous learning and practical projects.
 
 📍 Hyderabad, India
 
