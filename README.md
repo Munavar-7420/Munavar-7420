@@ -25,16 +25,17 @@
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://jsdelivr.net" width="45" alt="Python"/>&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" width="45" alt="Pandas"/>&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" width="45" alt="NumPy"/>&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" width="45" alt="Scikit-Learn"/>&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" width="45" alt="MySQL"/>&nbsp;&nbsp;
-  <img src="https://icons8.com" width="45" alt="Power BI"/>&nbsp;&nbsp;
-  <img src="https://icons8.com" width="45" alt="Excel"/>&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" width="45" alt="Jupyter"/>&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" width="45" alt="Git"/>&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" width="45" alt="GitHub"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+<img src="https://img.icons8.com/color/48/power-bi.png"/>
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+
 </p>
 
 ---
@@ -44,12 +45,12 @@
 ### 📈 E-Commerce Sales Analysis Dashboard
 - **Tech Stack:** Python (Pandas), Power BI, Excel, SQL
 - **Highlights:** Cleaned retail order data, performed exploratory analysis, and built an interactive Power BI dashboard tracking regional sales, profit margins, and customer segments.
-- 🔗 [View Repository](https://github.com)
+- https://github.com/Munavar-7420/E-Commerce-Sales-Analysis-Project
 
 ### 🛒 Retail SQL Analytics System
 - **Tech Stack:** MySQL, SQL
 - **Highlights:** Queried transactional retail data to identify top-performing customers, monthly/quarterly revenue trends, deal size distribution, and regional sales performance.
-- 🔗 [View Repository](https://github.com)
+- https://github.com/Munavar-7420/Retail-SQL-Analytics-System
 
 ### 🏠 Real Estate Price Prediction
 - **Tech Stack:** Python, Pandas, Scikit-Learn
