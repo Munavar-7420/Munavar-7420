@@ -45,27 +45,27 @@
 ### 📈 E-Commerce Sales Analysis Dashboard
 - **Tech Stack:** Python (Pandas), Power BI, Excel, SQL
 - **Highlights:** Cleaned retail order data, performed exploratory analysis, and built an interactive Power BI dashboard tracking regional sales, profit margins, and customer segments.
-- 🔗 [Repository](https://github.com/Munavar-7420/E-Commerce-Sales-Analysis-Project.git)
+- 🔗 [Git Repository](https://github.com/Munavar-7420/E-Commerce-Sales-Analysis-Project.git)
 
 ### 🛒 Retail SQL Analytics System
 - **Tech Stack:** MySQL, SQL
 - **Highlights:** Queried transactional retail data to identify top-performing customers, monthly/quarterly revenue trends, deal size distribution, and regional sales performance.
-- 🔗 [Repository](https://github.com/Munavar-7420/Retail-SQL-Analytics-System)
+- 🔗 [Git Repository](https://github.com/Munavar-7420/Retail-SQL-Analytics-System)
 
 ### 🏠 Real Estate Price Prediction
 - **Tech Stack:** Python, Pandas, Scikit-Learn
 - **Highlights:** Engineered features and trained regression models (Linear Regression, Decision Tree, Random Forest) on 13,000+ Bengaluru property records to predict housing prices.
-- 🔗 [Repository](https://github.com/Munavar-7420/Real-Estate-Price-Prediction)
+- 🔗 [Git Repository](https://github.com/Munavar-7420/Real-Estate-Price-Prediction)
 
 ### 🎬 Movie Recommendation System
 - **Tech Stack:** Python, NLP, TF-IDF, Scikit-Learn
 - **Highlights:** Built a content-based recommendation engine across 45,000+ movies using TF-IDF vectorization and cosine similarity on genres, cast, crew, and keywords.
-- 🔗 [Repository](https://github.com/Munavar-7420/Movie-Recommendation-System)
+- 🔗 [Git Repository](https://github.com/Munavar-7420/Movie-Recommendation-System)
 
 ### 📉 Customer Churn Prediction System
 - **Tech Stack:** Python, Pandas, Scikit-Learn
 - **Highlights:** Developed a machine learning classification pipeline to analyze customer behavior, identify key churn drivers, and support retention strategies.
-- 🔗 [Repository](https://github.com/Munavar-7420/Customer-Churn-Prediction)
+- 🔗 [Git Repository](https://github.com/Munavar-7420/Customer-Churn-Prediction)
 
 ---
 
