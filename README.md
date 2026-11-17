@@ -45,27 +45,27 @@
 ### 📈 E-Commerce Sales Analysis Dashboard
 - **Tech Stack:** Python (Pandas), Power BI, Excel, SQL
 - **Highlights:** Cleaned retail order data, performed exploratory analysis, and built an interactive Power BI dashboard tracking regional sales, profit margins, and customer segments.
-- https://github.com/Munavar-7420/E-Commerce-Sales-Analysis-Project
+- 🔗 https://github.com/Munavar-7420/E-Commerce-Sales-Analysis-Project
 
 ### 🛒 Retail SQL Analytics System
 - **Tech Stack:** MySQL, SQL
 - **Highlights:** Queried transactional retail data to identify top-performing customers, monthly/quarterly revenue trends, deal size distribution, and regional sales performance.
-- https://github.com/Munavar-7420/Retail-SQL-Analytics-System
+- 🔗 https://github.com/Munavar-7420/Retail-SQL-Analytics-System
 
 ### 🏠 Real Estate Price Prediction
 - **Tech Stack:** Python, Pandas, Scikit-Learn
 - **Highlights:** Engineered features and trained regression models (Linear Regression, Decision Tree, Random Forest) on 13,000+ Bengaluru property records to predict housing prices.
-- 🔗 [View Repository](https://github.com)
+- 🔗 https://github.com/Munavar-7420/Real-Estate-Price-Prediction
 
 ### 🎬 Movie Recommendation System
 - **Tech Stack:** Python, NLP, TF-IDF, Scikit-Learn
 - **Highlights:** Built a content-based recommendation engine across 45,000+ movies using TF-IDF vectorization and cosine similarity on genres, cast, crew, and keywords.
-- 🔗 [View Repository](https://github.com)
+- 🔗 https://github.com/Munavar-7420/Movie-Recommendation-System
 
 ### 📉 Customer Churn Prediction System
 - **Tech Stack:** Python, Pandas, Scikit-Learn
 - **Highlights:** Developed a machine learning classification pipeline to analyze customer behavior, identify key churn drivers, and support retention strategies.
-- 🔗 [View Repository](https://github.com)
+- 🔗 https://github.com/Munavar-7420/Customer-Churn-Prediction
 
 ---
 
@@ -82,16 +82,21 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com">
-    <img src="https://icons8.com" width="45" alt="LinkedIn"/>
-  </a>&nbsp;&nbsp;
-  <a href="mailto:pmunavar.7420@gmail.com">
-    <img src="https://icons8.com" width="45" alt="Email"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com">
-    <img src="https://jsdelivr.net" width="45" alt="GitHub"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://hackerrank.com">
-    <img src="https://icons8.com" width="45" alt="HackerRank"/>
-  </a>
+
+<a href="https://www.linkedin.com/in/pmunavar/">
+<img src="https://img.icons8.com/color/48/linkedin.png"/>
+</a>
+
+<a href="mailto:pmunavar.7420@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png"/>
+</a>
+
+<a href="https://github.com/Munavar-7420">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/>
+</a>
+
+<a href="https://www.hackerrank.com/munavar_7420">
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"/>
+</a>
+
 </p>
