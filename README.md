@@ -50,22 +50,22 @@
 ### 🛒 Retail SQL Analytics System
 - **Tech Stack:** MySQL, SQL
 - **Highlights:** Queried transactional retail data to identify top-performing customers, monthly/quarterly revenue trends, deal size distribution, and regional sales performance.
-- 🔗 [Git Repository](https://github.com/Munavar-7420/Retail-SQL-Analytics-System)
+- 🔗 [Git Repository](https://github.com/Munavar-7420/Retail-SQL-Analytics-System.git)
 
 ### 🏠 Real Estate Price Prediction
 - **Tech Stack:** Python, Pandas, Scikit-Learn
 - **Highlights:** Engineered features and trained regression models (Linear Regression, Decision Tree, Random Forest) on 13,000+ Bengaluru property records to predict housing prices.
-- 🔗 [Git Repository](https://github.com/Munavar-7420/Real-Estate-Price-Prediction)
+- 🔗 [Git Repository](https://github.com/Munavar-7420/Real-Estate-Price-Prediction.git)
 
 ### 🎬 Movie Recommendation System
 - **Tech Stack:** Python, NLP, TF-IDF, Scikit-Learn
 - **Highlights:** Built a content-based recommendation engine across 45,000+ movies using TF-IDF vectorization and cosine similarity on genres, cast, crew, and keywords.
-- 🔗 [Git Repository](https://github.com/Munavar-7420/Movie-Recommendation-System)
+- 🔗 [Git Repository](https://github.com/Munavar-7420/Movie-Recommendation-System.git)
 
 ### 📉 Customer Churn Prediction System
 - **Tech Stack:** Python, Pandas, Scikit-Learn
 - **Highlights:** Developed a machine learning classification pipeline to analyze customer behavior, identify key churn drivers, and support retention strategies.
-- 🔗 [Git Repository](https://github.com/Munavar-7420/Customer-Churn-Prediction)
+- 🔗 [Git Repository](https://github.com/Munavar-7420/Customer-Churn-Prediction-Model.git)
 
 ---
 
