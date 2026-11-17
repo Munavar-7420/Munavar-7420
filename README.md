@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm Munavar Patter
 
-### 📊 Data Analyst at CRSR Technologies Pvt. Ltd.
+### 🎓 Graduate Student at SRH University | Former Data Analyst
 
-### SQL | Python | Power BI | Data Analytics | Business Intelligence
+### SQL | Python | Power BI | Data Analytics | Business Intelligence | Machine Learning
 
 </div>
 
@@ -12,36 +12,29 @@
 
 ## 👨‍💻 About Me
 
-🎓 I hold a Bachelor's degree in Engineering and developed a strong interest in analytical and data-driven problem-solving through mathematics, statistics, and logical reasoning.
+🎓 Currently pursuing my graduate studies at **SRH University** in Germany, building on a Bachelor's degree in Engineering and hands-on industry experience.
 
-📊 My interest in data led me to build expertise in **SQL, Python, Power BI, Excel, data visualization, and business intelligence** through structured training, internships, independent projects, and professional experience.
+💼 Previously worked as a **Data Analyst at CRSR Technologies Pvt. Ltd.**, delivering SQL-based analysis, Power BI dashboards, data validation, and business reporting to drive decision-making.
 
-💼 I am currently working as a **Data Analyst at CRSR Technologies Pvt. Ltd.**, where I contribute to SQL-based data analysis, dashboard development, business reporting, data validation, and analytical solutions that support business decision-making.
+🚀 Passionate about turning raw data into actionable insights through end-to-end projects in **sales analytics, predictive modeling, recommendation systems, and customer churn analysis**.
 
-🚀 Beyond my professional responsibilities, I continuously work on real-world analytics and machine learning projects, including sales analytics, recommendation systems, predictive modeling, customer churn analysis, and business intelligence dashboards.
-
-📚 I am continuously expanding my knowledge of **Data Analytics, Business Intelligence, Machine Learning concepts, and Artificial Intelligence** through continuous learning and practical projects.
-
-📍 Hyderabad, India
-
-🎯 My long-term goal is to build a career at the intersection of **Data Science, Artificial Intelligence, and Business Intelligence**, leveraging data-driven solutions to solve complex business challenges and create measurable impact.
+📍 Germany | Open to **Working Student (Werkstudent)** and **Internship** opportunities in Data Analytics, Business Intelligence, and Data Science.
 
 ---
 
 ## 🛠️ Skills & Tools
 
 <p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
-<img src="https://img.icons8.com/color/48/power-bi.png"/>
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" alt="Pandas"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" alt="NumPy"/>&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" width="45" alt="Scikit-Learn"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="MySQL"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="45" alt="Power BI"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="45" alt="Excel"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" alt="Jupyter"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub"/>
 </p>
 
 ---
@@ -49,94 +42,55 @@
 ## 📂 Featured Projects
 
 ### 📈 E-Commerce Sales Analysis Dashboard
-
-- Python Data Cleaning
-- Exploratory Data Analysis
-- Power BI Dashboard
-- Sales & Profit Analysis
-- Customer Segment Analysis
-
-🔗 Repository: https://github.com/Munavar-7420/E-Commerce-Sales-Analysis-Project
-
----
+- **Tech Stack:** Python (Pandas), Power BI, Excel, SQL
+- **Highlights:** Cleaned retail order data, performed exploratory analysis, and built an interactive Power BI dashboard tracking regional sales, profit margins, and customer segments.
+- 🔗 [View Repository](https://github.com/Munavar-7420/E-Commerce-Sales-Analysis-Project)
 
 ### 🛒 Retail SQL Analytics System
-
-- SQL-Based Business Analysis
-- Revenue Trend Analysis
-- Customer Insights
-- Product Performance Evaluation
-- Regional Sales Analysis
-
-🔗 Repository: https://github.com/Munavar-7420/Retail-SQL-Analytics-System
-
----
+- **Tech Stack:** MySQL, SQL
+- **Highlights:** Queried transactional retail data to identify top-performing customers, monthly/quarterly revenue trends, deal size distribution, and regional sales performance.
+- 🔗 [View Repository](https://github.com/Munavar-7420/Retail-SQL-Analytics-System)
 
 ### 🏠 Real Estate Price Prediction
-
-- Machine Learning Regression Project
-- Feature Engineering
-- Data Preprocessing
-- Price Prediction Model
-- Performance Evaluation
-
-🔗 Repository: https://github.com/Munavar-7420/Real-Estate-Price-Prediction
-
----
+- **Tech Stack:** Python, Pandas, Scikit-Learn
+- **Highlights:** Engineered features and trained regression models (Linear Regression, Decision Tree, Random Forest) on 13,000+ Bengaluru property records to predict housing prices.
+- 🔗 [View Repository](https://github.com/Munavar-7420/Real-Estate-Price-Prediction)
 
 ### 🎬 Movie Recommendation System
-
-- NLP & Machine Learning
-- Content-Based Filtering
-- TF-IDF Vectorization
-- Cosine Similarity
-- Recommendation Engine
-
-🔗 Repository: https://github.com/Munavar-7420/Movie-Recommendation-System
-
----
+- **Tech Stack:** Python, NLP, TF-IDF, Scikit-Learn
+- **Highlights:** Built a content-based recommendation engine across 45,000+ movies using TF-IDF vectorization and cosine similarity on genres, cast, crew, and keywords.
+- 🔗 [View Repository](https://github.com/Munavar-7420/Movie-Recommendation-System)
 
 ### 📉 Customer Churn Prediction System
-
-- Machine Learning Classification Project
-- Customer Behavior Analysis
-- Feature Engineering
-- Predictive Modeling
-- Customer Retention Insights
-
-🔗 Repository: https://github.com/Munavar-7420/Customer-Churn-Prediction
+- **Tech Stack:** Python, Pandas, Scikit-Learn
+- **Highlights:** Developed a machine learning classification pipeline to analyze customer behavior, identify key churn drivers, and support retention strategies.
+- 🔗 [View Repository](https://github.com)
 
 ---
 
 ## 📜 Certifications & Learning
 
-- 📊 Data Analytics Program – Masai School 
-- 🗄️ SQL for Data Analysis
-- 📈 Power BI Dashboard Development
-- 🐍 Python for Data Analytics
-- 📉 Business Intelligence & Data Visualization
+- 📊 **Data Analytics Program** – Masai School
+- 🗄️ **SQL for Data Analysis**
+- 📈 **Power BI Dashboard Development**
+- 🐍 **Python for Data Analytics**
+- 📉 **Business Intelligence & Data Visualization**
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/pmunavar/">
-<img src="https://img.icons8.com/color/48/linkedin.png"/>
-</a>
-
-<a href="mailto:pmunavar.7420@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail-new.png"/>
-</a>
-
-<a href="https://github.com/Munavar-7420">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/>
-</a>
-
-<a href="https://www.hackerrank.com/munavar_7420">
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/pmunavar/">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="45" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:pmunavar.7420@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="45" alt="Email"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/Munavar-7420">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/munavar_7420">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="45" alt="HackerRank"/>
+  </a>
 </p>
-
